@@ -7,12 +7,11 @@ Bank-of-Flatiron project is a React application that displays a list of your rec
 ## Installation
 
 <ol>
-<li>git clone https://github.com/alvinkenyagah/Bank-of-Flatiron.git </li>
-<li>cd Bank-of-Flatiron</li>
+<li>git clone https://github.com/alvinkenyagah/Code-Challenge-Bank-of-Flatiron-.git </li>
+<li>cd Code-Challenge-Bank-of-Flatiron-</li>
 <li>npm install</li>
-<li>npm run dev</li>
 <li>json-server -w db.json p 8001</li>
-
+<li>npm start</li>
 <ol>
 
 ## MIT License
