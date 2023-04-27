@@ -111,6 +111,13 @@
       "category": "Bills",
       "amount": "500",
       "id": 16
+    },
+    {
+      "date": "2023-04-21",
+      "description": "Fix broken laptop",
+      "category": "Payment",
+      "amount": "2000",
+      "id": 17
     }
   ]
 }
